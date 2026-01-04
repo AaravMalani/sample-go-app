@@ -6,3 +6,6 @@
 # Editor
 .idea/*
 .vscode/*
+
+*.gen.go
+query
